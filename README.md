@@ -1,1 +1,0 @@
-# dbc-phase-1-checkpoint-3-challenge
